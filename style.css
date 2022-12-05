@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/*Header*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    
+    
+   
+}
+
+#logo {
+    background-color: white;
+    text-align: center;
+    
+}
+
+#start {
+    background-color: blanchedalmond;
+    border-top: 2px solid coral;
+       color: rgb(53, 53, 153);
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+   
+}
+
+#titolo {
+    margin-left:auto;
+    margin-right:auto;
+    width:800px;
+ 
+}
+
+h1, figure {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+ #foto {
+   border-radius: 20px;
+   box-shadow: 10px 10px 8px #c6c4c4;
+   margin-left:auto;
+   margin-right:auto;
+   width:800px;
+
+   
+ }
+
+ figcaption {
+    color: rgb(162, 147, 147);
+ }
+
+ #feature {
+    color: rgb(200, 42, 42);
+    border-left: 2px solid coral;
+    padding-left: 7px;
+    margin-left:auto;
+    margin-right:auto;
+    width:800px;
+ 
+}
+
+   .focaccia {
+    margin-left:auto;
+    margin-right:auto;
+    width:800px;
+ 
+   }
+     
+#method {
+    margin-left:auto;
+   margin-right:auto;
+   width:800px;
+
+}
+
+ hr {
+    height: 0.2px;
+        background-color:rgb(155, 171, 226);
+        margin-left:auto;
+   margin-right:auto;
+   width:800px;
+
+     
+ }
+ ul {
+  line-height: 30px;
+  margin-left:auto;
+  margin-right:auto;
+  width:800px;
+
+ }
+
+ #make {
+    margin-left:auto;
+    margin-right:auto;
+    width:800px;
+ 
+ }
+ p {
+    margin-left:auto;
+   margin-right:auto;
+   width:800px;
+
+ }
+
+ footer {
+    margin-left:auto;
+    margin-right:auto;
+    width:800px;
+ 
+ }
